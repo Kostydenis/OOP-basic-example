@@ -1,0 +1,16 @@
+exit
+help
+add
+showlist
+addcat
+addlion
+addtiger
+addzebra
+makenoise
+introduce
+feed
+feedall
+kill
+killall
+heal
+healall
